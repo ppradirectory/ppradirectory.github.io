@@ -13,7 +13,7 @@ These are just some of the online-based resources that we think visitors of the 
 * General Resources
 
 <center>
-   <img src="{{site.baseurl}}flag.png" width=500px />
+   <img src="{{site.baseurl}}/flag.png" width=500px />
 </center>
 
 <br/>
@@ -35,6 +35,8 @@ These are just some of the online-based resources that we think visitors of the 
     * They are also on PayPal: [https://www.paypal.com/paypalme/AbedAwad6699](https://www.paypal.com/paypalme/AbedAwad6699)
 * __Help Muhammad complete his treatment and live in peace__ by Yousef Qasem: [https://www.gofundme.com/f/support-youssefs-familys-evacuation-from-gaza](https://www.gofundme.com/f/support-youssefs-familys-evacuation-from-gaza)
 * __Help Bassam Omar & family afford basic necessities__ by Mitchell Velona: [https://www.gofundme.com/f/help-bassam-his-family-afford-basic-necessities](https://www.gofundme.com/f/help-bassam-his-family-afford-basic-necessities)
+* __Help the starving and displaced__ by Mark Churcher: [https://www.gofundme.com/f/help-the-starving-and-displaced](https://www.gofundme.com/f/help-the-starving-and-displaced)
+    * From the Twitter/X user [@Palestinedaily1](https://x.com/Palestinedaily1).
 
 ## Other pro-Palestine Directories
 
@@ -47,5 +49,10 @@ These are just some of the online-based resources that we think visitors of the 
 ## General Resources
 
 * __How To Help Palestine__ by _Palestine Children's Relief Fund:_ [https://www.pcrf.net/information-you-should-know/how-to-help-palestine.html](https://www.pcrf.net/information-you-should-know/how-to-help-palestine.html)
+* __BadEmpanada:__ while we may not always agree with the Empanadas, we do acknowledge that he is one of the most powerful critics of Zionism in the BreadTube universe. He is able to express his criticisms of Zionism in a most honest and justifiably blunt manner. He is a useful resource for education on the Israel-Palestine political situation:
+    * YouTube: [https://www.youtube.com/@BadEmpanada](https://www.youtube.com/@BadEmpanada)
+    * YouTube 2: [https://www.youtube.com/@BadEmpanadaLive](https://www.youtube.com/@BadEmpanadaLive)
+    * Spanish YouTube [https://www.youtube.com/channel/UCfqxvPxPVLuCzPeOsleOB3g](https://www.youtube.com/channel/UCfqxvPxPVLuCzPeOsleOB3g)
+    * Instagram: [https://www.instagram.com/BadEmpanada/](https://www.instagram.com/BadEmpanada/)
 * __Donation link to the _Najam Institute_:__ [https://partners.getmoredonations.org/campaign/gaza/FUNTJDFSXCC/?form=FUNTJDFSXCC](https://partners.getmoredonations.org/campaign/gaza/FUNTJDFSXCC/?form=FUNTJDFSXCC)
 
