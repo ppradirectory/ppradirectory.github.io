@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+image: /flag.png
 ---
 
 These are just some of the online-based resources that we think visitors of the website could contribute to. __NOTE__ that items in these lists are founded on our contributors subjective opinions; we recommend that users "do their own research" on the legitimacy of these fundraisers.
@@ -35,8 +36,9 @@ These are just some of the online-based resources that we think visitors of the 
     * They are also on PayPal: [https://www.paypal.com/paypalme/AbedAwad6699](https://www.paypal.com/paypalme/AbedAwad6699)
 * __Help Muhammad complete his treatment and live in peace__ by Yousef Qasem: [https://www.gofundme.com/f/support-youssefs-familys-evacuation-from-gaza](https://www.gofundme.com/f/support-youssefs-familys-evacuation-from-gaza)
 * __Help Bassam Omar & family afford basic necessities__ by Mitchell Velona: [https://www.gofundme.com/f/help-bassam-his-family-afford-basic-necessities](https://www.gofundme.com/f/help-bassam-his-family-afford-basic-necessities)
-* __Help the starving and displaced__ by Mark Churcher: [https://www.gofundme.com/f/help-the-starving-and-displaced](https://www.gofundme.com/f/help-the-starving-and-displaced)
-    * From the Twitter/X user [@Palestinedaily1](https://x.com/Palestinedaily1).
+* From the Twitter/X user [@Palestinedaily1](https://x.com/Palestinedaily1):
+    * __Help the starving and displaced__ by Mark Churcher: [https://www.gofundme.com/f/help-the-starving-and-displaced](https://www.gofundme.com/f/help-the-starving-and-displaced)
+    * __Support sick children in Gaza and help them survive!__ by Philip Jacobson: [https://chuffed.org/project/help-nada-and-her-sick-child-survive-gaza](https://chuffed.org/project/help-nada-and-her-sick-child-survive-gaza)
 
 ## Other pro-Palestine Directories
 
