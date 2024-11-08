@@ -9,15 +9,26 @@ image: /flag.png
 These are just some of the online-based resources that we think visitors of the website could contribute to. __NOTE__ that items in these lists are founded on our contributors subjective opinions; we recommend that users "do their own research" on the legitimacy of these fundraisers.
 
 ## Contents at a glance
-* IMPORTANT: "GoFundMe" and other Crowdsourced Fundraisers
-* Other pro-Palestine Directories
+
+* IMPORTANT "GoFundMe" and other Crowdsourced Fundraisers
 * General Resources
+* Other pro-Palestine Directories
 
 <center>
-   <img src="{{site.baseurl}}/flag.png" width=500px />
+   <img src="{{ site.baseurl }}/flag.png" width=500px />
 </center>
 
 <br/>
+
+## TEST reading from gofundme database ...
+
+<ul>
+{% for fundraiser in site.data.gofundmes %}
+  <li>
+    Fundraiser No. {{ fundraiser.id }}: <b>{{ fundraiser.title }}</b> by {{ fundraiser.author }}: <a href="{{ fundraiser.link }}" target="_blank">{{ fundraiser.link }}</a>
+  </li>
+{% endfor %}
+</ul>
 
 ## IMPORTANT: "GoFundMe" and other Crowdsourced Fundraisers
 
@@ -39,15 +50,7 @@ These are just some of the online-based resources that we think visitors of the 
 * From the Twitter/X user [@Palestinedaily1](https://x.com/Palestinedaily1):
     * __Help the starving and displaced__ by Mark Churcher: [https://www.gofundme.com/f/help-the-starving-and-displaced](https://www.gofundme.com/f/help-the-starving-and-displaced)
     * __Support sick children in Gaza and help them survive!__ by Philip Jacobson: [https://chuffed.org/project/help-nada-and-her-sick-child-survive-gaza](https://chuffed.org/project/help-nada-and-her-sick-child-survive-gaza)
-
-## Other pro-Palestine Directories
-
-* __Operation: Olive Branch:__ [https://docs.google.com/spreadsheets/d/1vtMLLOzuc6GpkFySyVtKQOY2j-Vvg0UsChMCFst_WLA/htmlview#](https://docs.google.com/spreadsheets/d/1vtMLLOzuc6GpkFySyVtKQOY2j-Vvg0UsChMCFst_WLA/htmlview#)
-    * Specal thanks to Twitter/X user [@VeloxceneA](https://x.com/VeloxceneA) for alerting us to this list.
-* __Butterfly Effect:__ A mutual aid project to amplify the voices of those who need support: [https://linktr.ee/butterflyeffectproject](https://linktr.ee/butterflyeffectproject)
-    * Butterfly Effect's form to request being appended to their list: [https://docs.google.com/forms/d/e/1FAIpQLSdBjEmfpn8jSEx46koeZhJ7czcm3NXq1KqK0PdVxhc89_BwJw/viewform](https://docs.google.com/forms/d/e/1FAIpQLSdBjEmfpn8jSEx46koeZhJ7czcm3NXq1KqK0PdVxhc89_BwJw/viewform)
-    * Special thanks to Twitter/X user [@twtstxar](https://x.com/twtstxar) for alerting us to this list.
-
+    
 ## General Resources
 
 * __How To Help Palestine__ by _Palestine Children's Relief Fund:_ [https://www.pcrf.net/information-you-should-know/how-to-help-palestine.html](https://www.pcrf.net/information-you-should-know/how-to-help-palestine.html)
@@ -57,4 +60,12 @@ These are just some of the online-based resources that we think visitors of the 
     * Spanish YouTube [https://www.youtube.com/channel/UCfqxvPxPVLuCzPeOsleOB3g](https://www.youtube.com/channel/UCfqxvPxPVLuCzPeOsleOB3g)
     * Instagram: [https://www.instagram.com/BadEmpanada/](https://www.instagram.com/BadEmpanada/)
 * __Donation link to the _Najam Institute_:__ [https://partners.getmoredonations.org/campaign/gaza/FUNTJDFSXCC/?form=FUNTJDFSXCC](https://partners.getmoredonations.org/campaign/gaza/FUNTJDFSXCC/?form=FUNTJDFSXCC)
+
+## Other pro-Palestine Directories
+
+* __Operation: Olive Branch:__ [https://docs.google.com/spreadsheets/d/1vtMLLOzuc6GpkFySyVtKQOY2j-Vvg0UsChMCFst_WLA/htmlview#](https://docs.google.com/spreadsheets/d/1vtMLLOzuc6GpkFySyVtKQOY2j-Vvg0UsChMCFst_WLA/htmlview#)
+    * Specal thanks to Twitter/X user [@VeloxceneA](https://x.com/VeloxceneA) for alerting us to this list.
+* __Butterfly Effect:__ A mutual aid project to amplify the voices of those who need support: [https://linktr.ee/butterflyeffectproject](https://linktr.ee/butterflyeffectproject)
+    * Butterfly Effect's form to request being appended to their list: [https://docs.google.com/forms/d/e/1FAIpQLSdBjEmfpn8jSEx46koeZhJ7czcm3NXq1KqK0PdVxhc89_BwJw/viewform](https://docs.google.com/forms/d/e/1FAIpQLSdBjEmfpn8jSEx46koeZhJ7czcm3NXq1KqK0PdVxhc89_BwJw/viewform)
+    * Special thanks to Twitter/X user [@twtstxar](https://x.com/twtstxar) for alerting us to this list.
 
