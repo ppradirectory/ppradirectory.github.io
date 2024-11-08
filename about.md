@@ -20,7 +20,8 @@ I am an undergraduate computer science student in the Americas, and wanted to ma
 
 I cannot direct my own charity efforts because I lack the experience needed to do so, and want to avoid [the social iatrogenics involved with international "voluntourism."](https://www.uvm.edu/~jashman/CDAE195_ESCI375/To%20Hell%20with%20Good%20Intentions.pdf) But hopefully this small contribution of mine can help the Palestinians, even just a little, without a large risk of harm caused by good intentions.
 
-* __Directory admin on social media...__
-    * Twitter/X: [https://x.com/BayesianInfer](https://x.com/BayesianInfer)
-    * GitHub: [https://github.com/Alekseyyy](https://github.com/Alekseyyy)
+__Directory admin on social media...__
+
+* Twitter/X: [https://x.com/BayesianInfer](https://x.com/BayesianInfer)
+* GitHub: [https://github.com/Alekseyyy](https://github.com/Alekseyyy)
 
