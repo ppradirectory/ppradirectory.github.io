@@ -10,9 +10,7 @@ These are just some of the online-based resources that we think visitors of the 
 
 ## Contents at a glance
 
-* IMPORTANT "GoFundMe" and other Crowdsourced Fundraisers
-* General Resources
-* Other pro-Palestine Directories
+{:toc}
 
 <center>
    <img src="{{ site.baseurl }}/flag.png" width=500px />
@@ -24,7 +22,7 @@ These are just some of the online-based resources that we think visitors of the 
 <ul>
 {% for fundraiser in site.data.gofundmes %}
   <li>
-    Fundraiser No. {{ fundraiser.id }}: <b>{{ fundraiser.title }}</b> by {{ fundraiser.author }}: <a href="{{ fundraiser.link }}" target="_blank">{{ fundraiser.link }}</a>
+    Fundraiser {{ fundraiser.id }}: <b>{{ fundraiser.title }}</b> by {{ fundraiser.author }}: <a href="{{ fundraiser.link }}" target="_blank">{{ fundraiser.link }}</a>
   </li>
 {% endfor %}
 </ul>
@@ -33,6 +31,9 @@ These are just some of the online-based resources that we think visitors of the 
 
 * __How To Help Palestine__ by _Palestine Children's Relief Fund:_ [https://www.pcrf.net/information-you-should-know/how-to-help-palestine.html](https://www.pcrf.net/information-you-should-know/how-to-help-palestine.html)
 * __Donation link to the _Najam Institute_:__ [https://partners.getmoredonations.org/campaign/gaza/FUNTJDFSXCC/?form=FUNTJDFSXCC](https://partners.getmoredonations.org/campaign/gaza/FUNTJDFSXCC/?form=FUNTJDFSXCC)
+* __International Rescue Committee__
+    * Article: _Crisis in Gaza: What is happening?_ [https://www.rescue.org/article/crisis-gaza-what-you-need-know](https://www.rescue.org/article/crisis-gaza-what-you-need-know)
+    * Donate: _Help families survive conflict in Gaza and Lebanon:_ [https://help.rescue.org/donate/evergreen-crisis-web](https://help.rescue.org/donate/evergreen-crisis-web)
 * __BadEmpanada:__ while we may not always agree with the Empanadas, we do acknowledge that he is one of the most powerful critics of Zionism in the BreadTube universe. He is able to express his criticisms of Zionism in a most honest and justifiably blunt manner. He is a useful resource for education on the Israel-Palestine political situation:
     * YouTube: [https://www.youtube.com/@BadEmpanada](https://www.youtube.com/@BadEmpanada)
     * YouTube 2: [https://www.youtube.com/@BadEmpanadaLive](https://www.youtube.com/@BadEmpanadaLive)
